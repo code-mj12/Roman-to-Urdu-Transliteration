@@ -1,0 +1,2 @@
+# Roman-to-Urdu-Transliteration
+We propose a word list based approach that gives a better transliteration to the Persio-Arabic letters that have same or similar sound but are written as different letter in Urdu script. We give a rule based system for roman to Urdu transliteration. As the roman script for Urdu does not follow any standard and a single word can be written in multiple ways, the proposed rule based system covers the different ways of writing and give the best possible Urdu transliteration based on word list and roman to Urdu script mapping rules.
